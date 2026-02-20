@@ -21,8 +21,12 @@
     "knowledge-base",
     "content-extraction"
   ],
-  "author": "Maddie's Assignment Solution",
+  "author": "binaryxankit",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binaryxankit/knowledge-based-scrapper.git"
+  },
   "dependencies": {
     "axios": "^1.6.7",
     "cheerio": "^1.0.0-rc.12",
