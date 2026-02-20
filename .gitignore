@@ -59,3 +59,7 @@ test_result_*.json
 
 # Puppeteer
 .puppeteer_cache/
+
+# Logs
+*.log
+logs/
