@@ -299,6 +299,11 @@ knowledge-base-scraper/
 - **"No items found"**: The site may use heavy JavaScript (Puppeteer will activate automatically)
 - **Slow scraping**: Large sites take time (normal for 100+ pages)
 - **Need authentication**: Use the auth options shown in examples
+- **Port already in use**: Change the port in `src/server.js` or kill the process using port 3001
+
+## 📄 License
+
+This project is licensed under the MIT License.
 
 ---
 
